@@ -3,24 +3,38 @@
                               │  $ whoami                       │
                               │  > Soma Sekimoto                │
                               │  $ pwd                          │
-                              │  > /dev/fullstack               │
+                              │  > /dev/web3/fullstack          │
                               └─────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=435&lines=Web3+%2F+Blockchain+Engineer;Full+Stack+Developer;Cryptography+Enthusiast)](https://git.io/typing-svg)
+
+## Current Focus
+
+```bash
+$ tail -f ~/current.log
+```
+
+```
+[2025] → Fully Homomorphic Encryption (TFHE)
+[2025] → Zero-Knowledge Proofs & Privacy Tech
+[2024] → Smart Contract Development (Solidity)
+[2024] → Decentralized Systems Architecture
+```
 
 ## Tech Stack
 
 ```bash
-$ ls -la ~/skills/
+$ tree ~/stack --depth=1
 ```
 
 ```
-languages/    -> [TypeScript, Python, Ruby, Rust, Go]
-frontend/     -> [React, Next.js, Vue, Svelte]
-backend/      -> [Node.js, Rails, Django, FastAPI]
-database/     -> [PostgreSQL, Redis, MongoDB]
-cloud/        -> [AWS, GCP, Docker, K8s]
+stack/
+├── blockchain/    [Solidity, Geth, Hardhat, ethers.js]
+├── crypto/        [Rust, TFHE, ZK-SNARKs, Lit Protocol]
+├── backend/       [Go, TypeScript, gRPC/Connect]
+├── frontend/      [React, Next.js, Web3.js]
+└── infra/         [Docker, K8s, IPFS]
 ```
 
 ## Stats
