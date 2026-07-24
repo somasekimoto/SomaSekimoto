@@ -5,7 +5,7 @@ Full-stack engineer — AI copilots, decentralized systems, and personal knowled
 **Now**
 - AI copilot for customer-support teams — LLM reply generation with guardrails (PII masking, hallucination detection)
 - [Monas](https://github.com/Monas-project/monas) — decentralized personal data store (Rust)
-- Obsidian × AI — personal knowledge base, [clippings dedupe](https://github.com/somasekimoto/obsidian-clippings-dedupe), X auto-archiving
+- Obsidian tooling — [clippings dedupe](https://github.com/somasekimoto/obsidian-clippings-dedupe), X auto-archiving
 - Automating my solo business with AI agents
 
 **Stack**
