@@ -1,12 +1,14 @@
 # Soma Sekimoto
 
-Full-stack engineer — Web3, cryptography, and privacy tech.
+Full-stack engineer — decentralized systems, personal knowledge tools, and AI-powered automation.
 
 **Now**
-Fully Homomorphic Encryption (TFHE) · Zero-Knowledge Proofs
+- [Monas](https://github.com/Monas-project/monas) — decentralized personal data store (Rust)
+- Obsidian × AI — [obsidian-clippings-dedupe](https://github.com/somasekimoto/obsidian-clippings-dedupe), X→Obsidian auto-archiving, building a personal knowledge base AI can work with
+- Automating my solo business (accounting, ops) with AI agents
 
 **Stack**
-Go · TypeScript · Rust · Solidity · React / Next.js · Docker / K8s
+Rust · TypeScript · Go · Python · React / Next.js · Cloudflare Workers · Docker / K8s
 
-**Writing**
-[Zenn](https://zenn.dev/somasekimoto) · [Qiita](https://qiita.com/soma_sekimoto)
+**Links**
+[X](https://x.com/somaseki) · [Zenn](https://zenn.dev/somasekimoto) · [Qiita](https://qiita.com/soma_sekimoto)
